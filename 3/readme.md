@@ -78,7 +78,7 @@ Dillinger uses a number of open source projects to work properly:
  
  [db]: <https://github.com/Michal3456/3ai5/blob/main/3/sprites/database.png>
  
- [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
+ [wireframeMain]: <https://github.com/Michal3456/3ai5/blob/main/3/sprites/Zrzut%20ekranu%202021-12-10%20152342.png>
  
  [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
 
